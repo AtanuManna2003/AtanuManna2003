@@ -1,5 +1,6 @@
 
-![Banner] (Atanu.png)
+![Atanu (1)](https://github.com/user-attachments/assets/544377a3-b647-48bd-923f-8afbe3f7d378)
+
 
 
 #  Hi!! I'm ATANU MANNA👋
@@ -29,7 +30,7 @@ My passion for cybersecurity drives my ambition to become an ethical hacker. I a
 
 ## Reach Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AtanuManna2003/)  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/varsha56) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AtanuManna2003/)  
 ## Fun Fact
 
 - 😄 Pronouns: He/Him
